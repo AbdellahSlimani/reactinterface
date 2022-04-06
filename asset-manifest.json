@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AbdellahSlimani/reactinterface/static/css/main.a47efd99.css",
+    "main.js": "/AbdellahSlimani/reactinterface/static/js/main.cffe85e1.js",
+    "index.html": "/AbdellahSlimani/reactinterface/index.html",
+    "main.a47efd99.css.map": "/AbdellahSlimani/reactinterface/static/css/main.a47efd99.css.map",
+    "main.cffe85e1.js.map": "/AbdellahSlimani/reactinterface/static/js/main.cffe85e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a47efd99.css",
+    "static/js/main.cffe85e1.js"
+  ]
+}
